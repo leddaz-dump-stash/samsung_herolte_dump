@@ -1,0 +1,14 @@
+# heroltexx-user 8.0.0 R16NW G930FXXS8ETC3 release-keys
+- manufacturer: samsung
+- platform: exynos5
+- codename: herolte
+- flavor: heroltexx-user
+- release: 8.0.0
+- id: R16NW
+- incremental: G930FXXS8ETC3
+- tags: release-keys
+- fingerprint: samsung/heroltexx/herolte:8.0.0/R16NW/G930FXXS8ETC3:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: heroltexx-user-8.0.0-R16NW-G930FXXS8ETC3-release-keys
+- repo: samsung_herolte_dump
